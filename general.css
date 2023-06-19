@@ -47,6 +47,13 @@ p{
     font-weight: bolder;
     font-size: 150%;
 }
+.rightAside {
+  float:right;
+}
+.shandaImg {
+  height: 15em;
+  padding-left: 15px;
+}
 /*
 .topnav-right {
     float: right;
@@ -55,7 +62,6 @@ p{
   .topNav {
     text-align: center;
   }
-
 
 a {
     color: black;
